@@ -5,7 +5,7 @@ Social media app similar to instagram built with react, redux and firebase.
 # Project Link 
 https://socialmediaapp-6be94.web.app/
 
-# How To Build
+# How To Run
 
 1. yarn
 2. yarn start
