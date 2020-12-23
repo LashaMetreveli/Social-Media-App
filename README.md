@@ -1,6 +1,6 @@
 # Project description
 
-Social media app similar to instagram, built with reactand firebase.
+Social media app similar to instagram, built with react and firebase.
 
 # Project Link 
 https://socialmediaapp-6be94.web.app/
