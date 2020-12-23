@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(215, 215, 221, 0.9);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.caption {
+  margin: 20px 0px;
+  color: black;
+}
+
+.upload {
+  margin-top: 10px;
+}
